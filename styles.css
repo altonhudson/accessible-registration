@@ -13,6 +13,17 @@
         min-height: 100vh;
     }
 
+   .form-title {
+       text-align: center;
+       font-size: 2.5rem;
+       font-weight: bold;
+       background: linear-gradient(90deg, #007BFF, #00CFFF);
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+       margin-bottom: 25px;
+       letter-spacing: 1px;
+   }
+
     form {
         background-color: #fff;
         padding: 30px 40px;
